@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Regular'), local('Roboto-Regular'),
+        url("/src/fonts/Roboto/Roboto-Regular.ttf") format("ttf"),
+        url("/src/fonts/Roboto/Roboto-Regular.woff2") format("woff2"),
+        url("/src/fonts/Roboto/Roboto-Regular.woff") format("woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto Medium";
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Medium'), local('Roboto-Medium'),
+        url("/src/fonts/Roboto/Roboto-Medium.ttf") format("ttf"),
+        url("/src/fonts/Roboto/Roboto-Medium.woff2") format("woff2"),
+        url("/src/fonts/Roboto/Roboto-Medium.woff") format("woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto Bold";
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Bold'), local('Roboto-Bold'),
+        url("/src/fonts/Roboto/Roboto-Bold.ttf") format("ttf"),
+        url("/src/fonts/Roboto/Roboto-Bold.woff2") format("woff2"),
+        url("/src/fonts/Roboto/Roboto-Bold.woff") format("woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto Black";
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Black'), local('Roboto-Black'),
+        url("/src/fonts/Roboto/Roboto-Black.ttf") format("ttf"),
+        url("/src/fonts/Roboto/Roboto-Black.woff2") format("woff2"),
+        url("/src/fonts/Roboto/Roboto-Black.woff") format("woff");
+    font-display: swap;
+}

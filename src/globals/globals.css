@@ -1,0 +1,23 @@
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+table,
+th {
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 400;
+    color: black;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+}
+
+body {
+    font-family: "Roboto", sans-serif !important;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
